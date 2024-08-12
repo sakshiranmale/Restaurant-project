@@ -1,0 +1,174 @@
+
+body{
+    background-color: #fef6e4;
+    margin: 0;
+    padding: 0;
+   }
+
+
+   .name{
+ text-align: center;
+ padding: 10px 20px;
+}
+.img{
+ height: 30px;
+ width: 30px;
+ display:block;
+}
+
+.why-choose-us-container{
+display: flex;
+justify-content: space-around;
+background-color: #f3d2c1;
+margin: 20px 0;
+padding: 20px;
+}
+
+
+
+.why-choose-us-card{
+ background-color: white;
+ width: 250px;
+ padding: 10px;
+ border-radius: 5px;
+ margin: 10px ;
+ text-align: center;
+ box-shadow: 0 0 10px 1px #808080;
+
+}
+.why-choose-us-img{
+ height: 80px;
+ display: block;
+ margin: 10px auto;
+ 
+}
+
+
+.btn{
+padding:10px 30px;
+border-radius: 50px;
+border: none;
+cursor: pointer;
+color: black;
+text-decoration: none;
+
+}
+.btn-primary{
+background-color: palevioletred;
+}
+
+.btn-secondary{
+background-color: aqua;
+
+}
+.no-underline{
+text-decoration: none;
+}
+.bg-secondary{
+background-color: #8bd3dd;
+}
+.header-section{
+display: flex;
+}
+.header-img{
+height: 300px;
+border: 10px solid black;
+display: block;
+margin: 20px auto;
+}
+.header-img-container{
+width: 45%;
+}
+
+.header-description-container{
+width: 50%;
+}
+.menu-card{
+    background-color: #fff;
+    width: 150px;
+    padding:  10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid #808080;
+   
+   }
+   :hover.menu-card{
+    box-shadow: -5px 5px  10px 1px #172c66;
+   }
+   .menu-icon{
+    height: 100px;
+    display: block;
+    margin: 10px auto;
+   }
+.menu-title{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+.menu-description{
+    font-size: 13px;
+    margin-top: 0px;
+}
+
+.menu-order-btn{
+    background-color: #f582ae;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    padding: 1px 5px;
+    display: block;
+    margin: 10px auto;
+}
+.menu-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px;
+    padding: 20px;
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.name1{
+    text-align: center;
+    padding: 10px 20px;
+    color: tomato;
+    font-size: 50px;
+}
+.line{
+    text-align: center;
+   }
+   .line1{
+    text-align: center;
+    color:tomato;
+   }
+   h4{
+    text-align: center;
+   }
+   h3{
+    margin-left: 150px;
+   }
+   .address{
+    margin-left: 150px;
+   }
+   .input{
+    height: 30px;
+    margin-left: 150px;
+    border: 3px solid;
+    }
+    
+   .info{
+    padding-top:2% ;
+   }
+   .button{
+    margin-left: 50%;
+    height: 40px;
+    background-color:aqua;
+    border-radius:7px;
+   }
+   :hover.button{
+    box-shadow: -5px 5px  10px 1px #172c66;
+   }
